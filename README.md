@@ -20,6 +20,7 @@ Nesse projeto apresento os resultados de métricas de avaliação para um modelo
 # Resultados
 
 ![relatorio-classificacao](https://github.com/user-attachments/assets/7c4c3f28-79a7-4997-9906-eddf3fbcc067)
+
 *Relatório de classificação* 
 
 
@@ -36,6 +37,7 @@ O relatório de classificação detalha as métricas de precisão, recall e F1-S
 
 
 ![matriz-de-confusao](https://github.com/user-attachments/assets/680bf8f2-7fe1-424b-adb3-a9c20f9d9d62)
+
 *Matriz de confusão*
 
 
@@ -44,6 +46,7 @@ A matriz de confusão demonstra os acertos e os erros nas previsões do modelo p
 
 
 ![curva-de-roc](https://github.com/user-attachments/assets/a67a0058-7503-4c40-af80-0acfd6e7ebb6)
+
 *Curva de ROC*
 
 
